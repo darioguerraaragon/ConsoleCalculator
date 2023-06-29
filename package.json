@@ -1,0 +1,11 @@
+{
+  "name": "calculatornodejs",
+  "version": "1.0.0",
+  "description": "este es mi primer programa con node es solo una practica por que no tengo ni puta idea jajaja",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "dario guerra aragon",
+  "license": "ISC"
+}
